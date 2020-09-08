@@ -1,4 +1,4 @@
-Week1 Objectives
+Week1 Objectives:
 After you complete this module, you will be able to:
 
 Understand that R and RStudio are one of the best tools to perform data analysis. 
